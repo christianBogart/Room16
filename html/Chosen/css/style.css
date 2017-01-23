@@ -2,7 +2,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /*This is main CSS file that contains custom style rules used in this template*/
 /*-------------------------------------------------------------------------------------------------------------------------------*/
-/* Template Name: Room 16 Studios.*/
+/* Template Name: ADIOS.*/
 /* Version: 1.0 Initial Release*/
 /* Build Date: 8-04-2016*/
 /* Author: Gerich.*/
@@ -378,6 +378,7 @@ body.fix {overflow: hidden;}
 .folow-icon .icon-dribbble:after {content: '\e803';}
 .folow-icon .icon-rss:after {content: '\e804';}
 .folow-icon .icon-gplus:after {content: '\e809';}
+.folow-icon .icon-instagram:after {content: '\f32d'; }
 .folow-icon a:hover i:after {left: 9px;}
 .folow-icon a:hover i:before {transform: translateX(30px); -webkit-transform: translateX(30px);}
 .footer-logo {display: block; margin: 0px auto 50px; width: 45px;}
